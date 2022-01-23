@@ -1,5 +1,5 @@
 # gluons
-Explaining gluons particles
+Explaining gluons particles,with bosons of gauge.
 
 The gluons are particles of nuclear atomic,doing as changing conjugator,calles such as gauge bosons of the interaction type strong traverse quark.
 Analogue definition for photon exchange in the electromagnetic interaction between two charged particles.
