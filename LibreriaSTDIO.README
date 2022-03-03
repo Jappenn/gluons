@@ -1,0 +1,30 @@
+***********************************************************************************************
+stdio.h, che sta per "standard input-output header"
+è l'header file della libreria standard del C che contiene le seguenti definizioni di macro, costanti e dichiarazioni di funzioni e tipi usati
+per le varie operazioni di input/output.
+La stdio.h è compatibile con il C++,dato che possiamo chiamarla dal gcc,con estensione ad oggetti C++,
+anche se quest'ultimo linguaggio di programmazione usa anche l'header file cstdio, che aggiunge alcune funzioni sovraccariche
+per lavorare anche con le variabili long.
+
+Possiamo scrivere un programma che legge tutto l'input dallo standard input e lo visualizza
+sullo standard output, carattere per carattere.
+
+*************************************************************************************************
+Alcune funzioni per lavorare con i file:
+
+fclose	Chiude il file associato al valore FILE * passatole.
+fopen, freopen, fdopen*	Apre un file in lettura o scrittura.
+remove	Rimuove un file.
+rename	Rinomina un file.
+
+Alcune funzioni per lavorare su I/O:
+
+fgetc	Restituisce un carattere da un file.
+fgets	Restituisce una stringa presa da un file,
+terminata da un carattere di nuova riga ('\n')
+o dal carattere nullo ('\0').
+fputc	Scrive un carattere su un file.
+fputs	Scrive una stringa su un file.
+
+
+****************************************************************************************************
